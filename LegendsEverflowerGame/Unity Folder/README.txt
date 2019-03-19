@@ -1,0 +1,1 @@
+You can open the Legends_Everflower folder in Unity. Last opened in Unity version 2018.2.19f1 Personal (64bit).
